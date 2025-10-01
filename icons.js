@@ -19,6 +19,12 @@ const icons = {
     "自动烘干机": "slimefun/auto_drier",
     "绿宝石矿石": "minecraft/emerald_ore",
     "破布": "slimefun/rag",
+    
+    "鼓舞室":"blast_furnace_front",
+    "水轮发电机":"iron_block",
+    "不锈钢转子":"iron_block",
+    "不锈钢锭":"iron_ingot",
+    
     "魔法因子-II": "",
     "金靴子": "minecraft/golden_boots",
     "夹板": "slimefun/splint",
